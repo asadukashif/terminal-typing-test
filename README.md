@@ -23,13 +23,13 @@ This project was written in Python and is supposed to be a open source terminal 
 ### Mac / Linux
     pip3 install curses
 
-### Running the Program
+## Running the Program
 To run simple type the following in the terminal / command prompt
-   ### Windows
+### Windows
 
     python terminal-typing-test.py
 
-   ### Mac / Linux
+### Mac / Linux
     python3 terminal-typing-test.py
 
 ## Working
